@@ -73,3 +73,13 @@ Following the Cats vs. Dogs Transfer Notebook:
 1. Run the Colab notebooks:
    - For MobileNet: `maltese-or-poodle.ipynb`
    - For VGG16: `transfer-learning-dog-breeds.ipynb`
+  
+## References
+
+### Code Notebooks
+1. [ML4A Transfer Learning Guide](https://colab.research.google.com/github/kylemath/ml4a-guides/blob/master/notebooks/transfer-learning.ipynb#scrollTo=rFL-fLitYoa3)
+2. [Cats vs Dogs Transfer Learning](https://colab.research.google.com/github/cunhamaicon/catsxdogs/blob/master/catsxdogs_transfer.ipynb#scrollTo=9bKzjWBbnXaM)
+
+### Dataset
+- [Maltese and Poodle Dataset](https://github.com/gskumlehn/maltese-or-poodle)
+
