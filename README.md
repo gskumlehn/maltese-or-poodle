@@ -58,8 +58,8 @@ Following the Cats vs. Dogs Transfer Notebook:
 
 ### Key Comparisons
 1. **Training Accuracy**:
-   - MobileNet: Peaks at ~87% after 70 epochs.
-   - VGG16: Achieves ~70% in fewer epochs but with higher capacity.
+   - MobileNet: Peaks at ~55% after 70 epochs.
+   - VGG16: Achieves ~68% in fewer epochs but with higher capacity.
 2. **Validation Accuracy**:
    - Similar trends observed with both datasets, confirming the effectiveness of transfer learning.
 3. **Impact of Data Augmentation**:
@@ -81,5 +81,5 @@ Following the Cats vs. Dogs Transfer Notebook:
 2. [Cats vs Dogs Transfer Learning](https://colab.research.google.com/github/cunhamaicon/catsxdogs/blob/master/catsxdogs_transfer.ipynb#scrollTo=9bKzjWBbnXaM)
 
 ### Dataset
-- [Maltese and Poodle Dataset](https://github.com/gskumlehn/maltese-or-poodle)
+- [Dog Breeds Dataset]([https://github.com/gskumlehn/maltese-or-poodle](https://www.kaggle.com/datasets/jessicali9530/stanford-dogs-dataset?resource=download))
 
